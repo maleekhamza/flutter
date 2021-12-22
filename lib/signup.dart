@@ -18,7 +18,6 @@ class SignupPage extends StatelessWidget {
             size: 20,
             color: Colors.black,),
 
-
         ),
       ),
       body: SingleChildScrollView(
